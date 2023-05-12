@@ -64,7 +64,7 @@ Very Soon 💖
 This NPM pkg is part of AMEIA Group,
 and Developed By Single Developer.
 
-**If you will use it you will need this minified version :**
+**If you will use it you will need this minified version :** https://github.com/Ahmedjk4/Calo/releases/download/MinifiedVersion/calo.min.js
 
 ```html
 <script src="calo.min.js"></script>
