@@ -1,0 +1,26 @@
+{
+  "name": "calo",
+  "version": "2.0.0",
+  "description": "Makes The Calculating And Converting Easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmedjk4/Calo.git"
+  },
+  "keywords": [
+    "calo",
+    "calculator"
+  ],
+  "author": "ahmedjk4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmedjk4/Calo/issues"
+  },
+  "homepage": "https://github.com/Ahmedjk4/Calo#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
