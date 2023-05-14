@@ -87,7 +87,7 @@ calo.updateRates() // Updated Or Error When No Internet
 This NPM pkg is part of AMEIA Group,
 and Developed By Single Developer.
 
-**If you will use it you will need this minified version :** https://github.com/Ahmedjk4/Calo/releases/download/MinifiedVersionLatest/calo.min.js
+**If you will use it in html you will need this minified version :** https://github.com/Ahmedjk4/Calo/releases/download/MinifiedVersionLatest/calo.min.js
 
 ```html
 <script src="calo.min.js"></script>
