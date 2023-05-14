@@ -1,6 +1,6 @@
 {
   "name": "calo",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Makes The Calculating And Converting Easier",
   "main": "index.js",
   "scripts": {
