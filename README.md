@@ -1,4 +1,4 @@
-### Finally, Calo 2.0.0 Is Here
+### Finally, Calo 2.0.1 Is Here
 ![GitHub license](https://img.shields.io/badge/license-ISC-green.svg) ![npm version](https://img.shields.io/npm/v/calo.svg?style=flat)
 ---
 # Installation
